@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-[#09090b] text-zinc-100 antialiased selection:bg-zinc-800 selection:text-zinc-200 overflow-x-hidden;
+  }
+}
+
+/* For Custom Glassmorphism Masonry System Layout */
+.break-inside-avoid {
+  break-inside: avoid;
+}
+
+/* Custom Minimalist Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #09090b;
+}
+::-webkit-scrollbar-thumb {
+  background: #27272a;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3f3f46;
+}
