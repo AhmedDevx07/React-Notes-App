@@ -38,7 +38,7 @@ export default function App() {
     <div className="relative min-h-screen bg-[#09090b] text-zinc-100 font-sans px-4 py-16 md:px-8">
       {/* High-fidelity Vector Mesh/Ambient Glow Gradients */}
       <div className="absolute top-[-10%] left-[-10%] w-[60vw] h-[60vw] rounded-full bg-purple-900/10 blur-[130px] pointer-events-none" />
-      <div className="absolute bottom-[-10%] right-[-10%] w-[50vw] h-[50vw] rounded-full bg-amber-900/10 blur-[130px] pointer-events-none" />
+      <div className="absolute bottom-[-10%] right-[-10%] w-[50vw] h-[50vw] rounded-full bg-purple-900/8 blur-[130px] pointer-events-none" />
       <div className="absolute top-[30%] left-[25%] w-[40vw] h-[40vw] rounded-full bg-sky-950/20 blur-[150px] pointer-events-none" />
 
       <div className="max-w-6xl mx-auto relative z-10">
@@ -81,7 +81,7 @@ export default function App() {
             </p>
           </div>
         ) : (
-          <div className="columns-1 sm:columns-2 md:columns-3 gap-5 [column-fill:_balance] w-full px-1">
+          <div className="columns-1 sm:columns-2 md:columns-2 lg:columns-2 gap-5 [column-fill:_balance] w-full px-1">
             <AnimatePresence mode="popLayout">
               {notes.map((note, index) => (
                 <NoteCard
