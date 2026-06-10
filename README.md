@@ -158,29 +158,19 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Author
 
-<div align="center">
+**Muhammad Ahmed (AhmedDevx07)**  
+Frontend Developer | MERN Stack Learner
 
-**Muhammad Ahmed**
-*MERN Stack Developer | React.js Intern @ internee.pk*
+### 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-AhmedDevx07-181717?style=flat-square&logo=github)](https://github.com/AhmedDevx07)
-
-</div>
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+* 🐙 GitHub: https://github.com/AhmedDevx07  
+* 💼 LinkedIn: https://linkedin.com/in/ahmeddevx07  
+* 🌐 Portfolio: https://ahmeddevx07.vercel.app/
 
 ---
 
 <div align="center">
-
-Made with ❤️ by **Muhammad Ahmed** as part of the **internee.pk** React.js Internship Program
-
-⭐ *If you found this project helpful, please consider giving it a star!*
-
+  <p>Made with ❤️ as part of the <strong>internee.pk React Internship</strong></p>
 </div>
